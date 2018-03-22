@@ -1,0 +1,4 @@
+﻿  Matrixtester.cpp
+c:\users\rober\source\repos\comp_3512_assignment1\comp_3512_assignment1\matrixtester.cpp(31): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\rober\source\repos\comp_3512_assignment1\comp_3512_assignment1\matrixtester.cpp(53): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  COMP_3512_Assignment1.vcxproj -> C:\Users\Rober\source\repos\COMP_3512_Assignment1\x64\Debug\COMP_3512_Assignment1.exe
